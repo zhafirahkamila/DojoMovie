@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#342844</color>
+    <color name="secondary">#683CE4</color>
+    <color name="highlighted">#A3F0F5</color>
+    <color name="hintText">#B3FFFFFF</color>
+    <color name="borderOut">#809747FF</color>
+    <color name="centerColor">#3E2D50</color>
+    <color name="startColor">#8464AA</color>
+    <color name="purple">#A085FF</color>
+    <color name="required">#99FF0000</color>
+    <color name="grey">#B0B1B1</color>
+    <color name="red">#FF5B5B</color>
+    <color name="transparantGrey">#80AAAAAA</color>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DojoMovie</string>
+    <string name="movie_price">Rp. %1$s</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="register_text">
+        Didn’t have an account? <font color="#A3F0F5"><u>Register Here!</u></font>
+    </string>
+    <string name="login_text">
+        Already have an account? <font color="#A3F0F5"><u>Login Here!</u></font>
+    </string>
+</resources>

@@ -1,0 +1,19 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Saat ditekan -->
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#AA7BE7" /> <!-- Ubah warna sesuai tema -->
+            <stroke android:width="2dp" android:color="@android:color/white" />
+            <corners android:radius="12dp" />
+        </shape>
+    </item>
+
+    <!-- Default: hanya outline putih -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/transparent" />
+            <stroke android:width="2dp" android:color="@android:color/white" />
+            <corners android:radius="12dp" />
+        </shape>
+    </item>
+</selector>
