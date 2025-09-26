@@ -31,6 +31,11 @@ The app provides users with a seamless experience for exploring movies, managing
 - **Type of Project:** Group Project (Mobile Community Solution LAB Project)  
 - **Year:** 2025
 
+## 🚀 How to Run
+- Clone the repository:
+   ```bash
+   git clone https://github.com/zhafirahkamila/Cookara_RecipeApp.git
+
 ## Screenshots
 <img width="200" height="500" alt="welcomePage" src="https://github.com/user-attachments/assets/3987dbc6-407a-4a9b-a0e4-8ac5946fda4a" />
 <img width="200" height="500" alt="signupDojo" src="https://github.com/user-attachments/assets/e82d8093-e4cd-4b05-b3b9-9d5004d90eed" />
