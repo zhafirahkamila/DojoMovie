@@ -34,7 +34,7 @@ The app provides users with a seamless experience for exploring movies, managing
 ## 🚀 How to Run
 - Clone the repository:
    ```bash
-   git clone https://github.com/zhafirahkamila/Cookara_RecipeApp.git
+   git clone https://github.com/zhafirahkamila/DojoMovie.git
 
 ## Screenshots
 <img width="200" height="500" alt="welcomePage" src="https://github.com/user-attachments/assets/3987dbc6-407a-4a9b-a0e4-8ac5946fda4a" />
