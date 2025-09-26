@@ -1,26 +1,32 @@
-## DojoMovie
-A mobile application built using Kotlin and Android Studio to enhance the visibility and accessibility of DoJo Movie, a global provider of high-quality films.
+## DojoMovie - Mobile Application
 
-## Features
-  - User Authentication (Sign Up, Login, OTP Verification).
-  - View Film List and Details.
-  - Transaction History.
-  - Profile Management.
-  - Google Maps Integration to Locate DojoMovie Stores.
-  - Local Database with SQLite.
+DojoMovie is a mobile application built with **Kotlin** and **Android Studio**, designed to enhance the visibility and accessibility of DojoMovie, a global provider of high-quality films.  
+The app provides users with a seamless experience for exploring movies, managing their profiles, and locating nearby stores.  
 
-## Technologies Used
-  - User Authentication (Sign Up, Login, OTP Verification.
-  - Android Studio.
-  - SQLite.
-  - Google Maps SDK for Android.
+## ✨ Features
+- 🔐 **User Authentication**: Sign Up, Login, and OTP Verification  
+- 🎥 **Film List & Details**: Browse available films with detailed information  
+- 🧾 **Transaction History**: Track previous purchases  
+- 👤 **Profile Management**: Manage user information and settings  
+- 📍 **Google Maps Integration**: Locate nearby DojoMovie stores  
+- 💾 **Local Database**: Powered by SQLite for offline support  
 
-## Role & Responsibilities
-  - Developed UI and backend for sign-up, login, OTP, history.
-  - Implemented SQLite-based local storage.
-  - Delegated tasks and supported team collaboration throughout development.
-  - Provided support whenever teammates encountered difficulties. 
+## 🛠️ Tech Stack
+- Kotlin  
+- Android Studio  
+- SQLite  
+- Google Maps SDK for Android  
 
-## Teammates
-  - Natania
-  - Elizabeth
+## 👩‍💻 Role & Responsibilities
+- Developed **frontend and backend** for sign-up, login, OTP, and transaction history  
+- Implemented **SQLite-based local storage**  
+- Delegated tasks, ensured team collaboration, and provided technical support to teammates  
+
+## 🤝 Team Members
+- **Zhafirah Kamila** – Fullstack Developer / Project Leader  
+- **Natania** – Developer  
+- **Elizabeth** – Developer  
+
+## 📌 Project Info
+- **Type of Project:** Group Project (Mobile Community Solution LAB Project)  
+- **Year:** 2025  
