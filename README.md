@@ -37,4 +37,6 @@ The app provides users with a seamless experience for exploring movies, managing
 <img width="200" height="500" alt="homeDojo" src="https://github.com/user-attachments/assets/1a154bc2-5d26-4e06-9793-f7819ed5725f" />
 <img width="200" height="500" alt="detail" src="https://github.com/user-attachments/assets/319146c3-92c9-41d0-9e8e-ec27dbb24280" />
 <img width="200" height="500" alt="history" src="https://github.com/user-attachments/assets/f3b9347a-107d-4719-a404-cc4b384f8b17" />
+<img width="200" height="500" alt="profileDojo" src="https://github.com/user-attachments/assets/3becd5d6-0930-423b-8567-3f107487dcfa" />
+
 
